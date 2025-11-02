@@ -1,5 +1,3 @@
-<h1>$\color{#603FEF}{STATS: }$</h1>
-
 <img width="50" height="125" alt="image" src="https://github.com/user-attachments/assets/f2083dd1-81e3-454b-a851-ff5f45b13479" />
 <img width="50" height="125" alt="image" src="https://github.com/user-attachments/assets/3d48c859-bfbc-4955-9d43-5f0e17df82b0" />
 <img width="50" height="125" alt="aadea355-183e-46a0-9eea-0cf9d30ddd21" src="https://github.com/user-attachments/assets/167fa01c-8e4f-4fe1-91fb-a291fd17710a" />
