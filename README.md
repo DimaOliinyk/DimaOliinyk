@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="" width="100%">
+  <img src="https://github.com/user-attachments/assets/1fabc759-0051-46b6-a369-2c04dc462d04" width="100%">
   
 </div>
 
-![4564a16c12e924321f388209366ef4a4](https://github.com/user-attachments/assets/1fabc759-0051-46b6-a369-2c04dc462d04)
 
-
+## Badges:
 
 <img width="50" height="125" alt="image" src="https://github.com/user-attachments/assets/f2083dd1-81e3-454b-a851-ff5f45b13479" />
 <img width="50" height="125" alt="image" src="https://github.com/user-attachments/assets/3d48c859-bfbc-4955-9d43-5f0e17df82b0" />
