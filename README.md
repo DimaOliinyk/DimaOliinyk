@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1fabc759-0051-46b6-a369-2c04dc462d04" width="100%">
-  
-</div>
-
 
 ## Badges:
 
