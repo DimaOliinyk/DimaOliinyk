@@ -12,4 +12,5 @@
 <img width="30" height="75" alt="38a1d9c7-b926-41a6-a0cd-5020b83da8e9" src="https://github.com/user-attachments/assets/5511de2c-ee63-4594-b6a6-72dec2edc74a" />
 <img width="30" height="75" alt="52ec68fb-cd25-4cbb-9bf0-5f38931e5875" src="https://github.com/user-attachments/assets/a879fb1e-df84-45bf-b0eb-a42fe40cb79a" />
 <img width="30" height="75" alt="2298a1b7-b7ce-455c-9042-46ede64c1d57" src="https://github.com/user-attachments/assets/4d0ffbf6-2c57-4ccc-b203-3ae6bd82b8d9" />
+<img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/526226962-4d0ffbf6-2c57-4ccc-b203-3ae6bd82b8d9.jpg" />
 
