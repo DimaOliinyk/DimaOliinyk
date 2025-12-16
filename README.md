@@ -20,6 +20,5 @@
 <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/516140330-53552bf9-cd8b-49a2-97c8-d6d9a623b2ee.jpg" />
 <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/519057981-5511de2c-ee63-4594-b6a6-72dec2edc74a.jpg" />
 <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/523642195-a879fb1e-df84-45bf-b0eb-a42fe40cb79a.jpg" />
-
-
-
+<img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/aae08203-c346-4a95-9fa1-5315d1739dbb.jpg" />
+<img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/b3b40215-0491-4a1d-b724-57b07059a1af.jpg" />
