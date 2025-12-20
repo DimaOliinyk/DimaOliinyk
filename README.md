@@ -1,5 +1,5 @@
 
-## Badges:
+## Energy used:
 
 <p>
   <!-- Start of the Monster Row -->
@@ -20,3 +20,6 @@
   <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/519057981-5511de2c-ee63-4594-b6a6-72dec2edc74a.jpg" />
   <!-- End of the Monster Row -->
 </p>
+
+## Stats:
+<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/StatsImages/svgviewer-output.svg" width="1000" height="auto"/>
