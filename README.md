@@ -23,5 +23,5 @@
 </p>
 
 ## Stats:
-<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/StatsImages/LanguagePercentages.svg" width="1000" height="auto"/>
-<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/StatsImages/Commits.svg" width="1000" height="auto"/>
+<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/LanguagePercentages.svg" width="1000" height="auto"/>
+<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/Commits.svg" width="1000" height="auto"/>
