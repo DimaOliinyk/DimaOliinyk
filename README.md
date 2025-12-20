@@ -22,4 +22,4 @@
 </p>
 
 ## Stats:
-<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/StatsImages/svgviewer-output.svg" width="1000" height="auto"/>
+<img src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/StatsImages/svgviewer-output%20(1).svg" width="1000" height="auto"/>
