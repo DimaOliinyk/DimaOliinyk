@@ -19,6 +19,7 @@
   <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/516140330-53552bf9-cd8b-49a2-97c8-d6d9a623b2ee.jpg" />
   <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/519057981-5511de2c-ee63-4594-b6a6-72dec2edc74a.jpg" />
   <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/508721994-cf83f4c1-242c-496a-a788-60dbbf36a514.jpg" />
+  <img width="30" height="75" src="https://github.com/DimaOliinyk/DimaOliinyk/blob/main/MonsterImages/508722016-167fa01c-8e4f-4fe1-91fb-a291fd17710a.jpg" />
   <!-- End of the Monster Row -->
 </p>
 
