@@ -1,0 +1,9 @@
+<svg width="1000" height="95">
+<rect x="0" y="0" width="1000" height="15" fill="none" rx="5" ry="5"/>
+<rect x="0" y="0" width="994" height="15" fill="#0527FCf9" rx="5" ry="5"/>
+<rect x="994" y="0" width="6" height="15" fill="#0527FC7e" rx="5" ry="5"/>
+<circle cx="10" cy="30" r="5" fill="#0527FCf9"/>
+<text x="20" y="35" fill="white" class="heavy">C#</text>
+<circle cx="10" cy="55" r="5" fill="#0527FC7e"/>
+<text x="20" y="60" fill="white" class="heavy">Dockerfile</text>
+</svg>
